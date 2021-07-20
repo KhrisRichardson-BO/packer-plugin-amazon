@@ -15,3 +15,5 @@ require (
 	github.com/zclconf/go-cty v1.8.4
 	golang.org/x/sys v0.0.0-20210319071255-635bc2c9138d
 )
+
+replace github.com/hashicorp/packer-plugin-amazon => github.com/KhrisRichardson-BO/packer-plugin-amazon placement-host-resource-group-arn
